@@ -299,6 +299,7 @@
 				BEBA50D817CF645400612DC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
